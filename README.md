@@ -1,2 +1,2 @@
 # SE
-Quickbite : Food Ordering System
+Quickbite : Restaurant Ordering System
